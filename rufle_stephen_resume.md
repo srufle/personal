@@ -73,12 +73,14 @@ srufle_at_gmail.com
             <li>Jenkins/Hudson</li>
             <li>Ant/Maven/Gradle</li>
             <li>Psake, Custom PowerShell</li>
-            <li>Nexus/Sonar/Artifactory</li>      
+            <li>VMware PowerCLI</li>
+            <li>Octopus Deploy</li>
+            <li>Nexus/Sonar/Artifactory</li>
         </ul>
       </td>
       <td style="vertical-align: text-top">
         <ul>
-          <li>Vagrant/Packer</li>
+          <li>Vagrant/Packer/Terraform</li>
           <li>VMware</li>
           <li>VirtualBox</li>
           <li>AWS</li>
@@ -126,6 +128,7 @@ srufle_at_gmail.com
 **_Company:_** [agiletestingframework.com](http://www.agiletestingframework.com/about/), Tempe, AZ 85284  
 **_Timeframe:_** 01-2014 – Current  
 
+- Developed build/deployment of Nuget packages for more then 40 applications
 - Developed automation frameworks using WebDriver for a number of clients
 - Helped coach teams on how to best develop applications taking automated testing into account
 - Created Chef cookbooks to deploy internal applications and client build pipeline infrastructure
