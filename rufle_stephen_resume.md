@@ -26,6 +26,7 @@ srufle_at_gmail.com
         <ul>
             <li>Java</li>
             <li>PowerShell</li>
+            <li>Bash</li>
             <li>Python</li>
             <li>Ruby</li>
             <li>Groovy</li>
@@ -42,6 +43,7 @@ srufle_at_gmail.com
       <td style="vertical-align: text-top">
         <ul>
           <li>Git</li>
+          <li>AWS Code Commit (Git)</li>
           <li>SVN</li>
           <li>TFS</li>
         </ul>
@@ -81,14 +83,15 @@ srufle_at_gmail.com
       <td style="vertical-align: text-top">
         <ul>
           <li>Vagrant/Packer/Terraform</li>
-          <li>VMware</li>
+          <li>VMware/ProxMox/KVM</li>
           <li>VirtualBox</li>
           <li>AWS</li>
           <li>Docker</li>
+          <li>AWS Elastic Container Registry (ECR) (Docker registry)</li>
           <li>Chef/SaltStack</li>
         </ul>
-      </td>            
-    </tr>        
+      </td>
+    </tr>
   </tbody>
 </table>
 <table>
@@ -117,16 +120,27 @@ srufle_at_gmail.com
             <li>Apache Tiles</li>
             <li>Acegi Security/CAS/Spring Security</li>
         </ul>
-      </td>           
-    </tr>    
+      </td>
+    </tr>
   </tbody>
 </table>
 
-
 ## PROFESSIONAL EXPERIENCE
+
+**DevOps Engineer**  
+**_Company:_** [Concord Servicing Corporation](https://www.concordservicing.com/), Scottsdale, AZ 85251  
+**_Timeframe:_** 10-2017 – Current
+
+- Helped build a CI/CD pipeline using
+  - Jenkins, Octopus Deploy, Nexus binary repository, Docker registry
+    - Nuget, msbuild, psake, maven
+  - PowerShell, Bash, Python, C#, Ansible
+  - PowerCLI - VMware, Docker
+  - ProxMox (KVM) - Built an automated Jenkins pipeline that deploys containers to an existing 5 node Docker swarm. The build utilizes shared library code pulled from AWS Code Commit to create a standard build pipline across different projects.
+
 **QA/DevOps Automation Engineering Consultant**  
 **_Company:_** [agiletestingframework.com](http://www.agiletestingframework.com/about/), Tempe, AZ 85284  
-**_Timeframe:_** 01-2014 – Current  
+**_Timeframe:_** 01-2014 – 10-2017
 
 - Developed build/deployment of Nuget packages for more then 40 applications
 - Developed automation frameworks using WebDriver for a number of clients
