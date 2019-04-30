@@ -10,8 +10,8 @@ srufle_at_gmail.com
 <table>
   <tbody>
     <tr>
-      <th align="center">Operating Systemns</th>
-      <th align="center">Lanuages</th>
+      <th align="center">Operating Systems</th>
+      <th align="center">Languages</th>
       <th align="center">Databases</th>
       <th align="center">Version Control</th>
     </tr>
