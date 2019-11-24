@@ -73,6 +73,7 @@ srufle_at_gmail.com
       <td style="vertical-align: text-top">
         <ul>
             <li>Jenkins/Hudson</li>
+            <li>Gitlab</li>
             <li>Ant/Maven/Gradle</li>
             <li>Psake, Custom PowerShell</li>
             <li>VMware PowerCLI</li>
@@ -136,7 +137,7 @@ srufle_at_gmail.com
     - Nuget, msbuild, psake, maven
   - PowerShell, Bash, Python, C#, Ansible
   - PowerCLI - VMware, Docker
-  - ProxMox (KVM) - Built an automated Jenkins pipeline that deploys containers to an existing 5 node Docker swarm. The build utilizes shared library code pulled from AWS Code Commit to create a standard build pipline across different projects.
+  - ProxMox (KVM) - Built an automated Jenkins pipeline that deploys containers to an existing 5 node Docker swarm. The build utilizes shared library code pulled from AWS Code Commit to create a standard build pipeline across different projects.
 
 **QA/DevOps Automation Engineering Consultant**  
 **_Company:_** [agiletestingframework.com](http://www.agiletestingframework.com/about/), Tempe, AZ 85284  
@@ -152,7 +153,7 @@ srufle_at_gmail.com
 
 **QA Automation Engineer**  
 **_Company:_** Forever Living Products International, LLC, Scottsdale, AZ  
-**_Timeframe:_** 07-2013 - 03-2014   
+**_Timeframe:_** 07-2013 - 03-2014  
 
 - Developed automated testing framework to test the IFS Web application
 - Technologies used consisted of Sikuli to do image matching, AutoIT to interact with windows, Guice for dependency injection, Apache commons libraries for configuration data, reading/writing excel documents
@@ -179,8 +180,8 @@ srufle_at_gmail.com
 - I have strong relational database skills, including design and normalization, of complex SQL queries, and basic performance tuning
 - Have written MySQL stored procedures to convert primary key columns to a shorter length during a performance optimization task
 
-**Lead J2EE Software Engineer**
-**_Company:_** Salmon LLC	Mineola, NY 
+**Lead J2EE Software Engineer**  
+**_Company:_** Salmon LLC	Mineola, NY  
 **_Timeframe:_** 09-1999-08-2011
 
 - Responsible for all aspects of the software development of the Fujifilm USA a high volume website from 2000-2008 using a  J2EE environment, including EJB, JDBC, JMS, JNDI, and XML technologies.
@@ -194,8 +195,6 @@ srufle_at_gmail.com
   - Implemented SOLR searching and faceted navigation 
 - Implemented build and deployment scripts using the Apache ant build tool
   - Process dealt with load balancers and synchronizing production data
-
-
 
 **Lead Software Engineer**  
 **_Company:_** Guadagno Consulting	Rochester, NY  
