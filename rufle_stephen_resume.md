@@ -1,9 +1,9 @@
 # STEPHEN P. RUFLE
 
-2070 E Detroit St
-Chandler, AZ, 85225
-(480) 269-5282
-srufle_at_gmail.com
+2070 E Detroit St  
+Chandler, AZ, 85225  
+(480) 269-5282  
+srufle_at_gmail.com 
 
 ## TECHNOLOGIES
 
@@ -47,7 +47,7 @@ srufle_at_gmail.com
           <li>SVN</li>
           <li>TFS</li>
         </ul>
-      </td>
+      </td>            
     </tr>
     <tr>
       <th align="center">Methodologies</th>
@@ -127,8 +127,8 @@ srufle_at_gmail.com
 
 ## PROFESSIONAL EXPERIENCE
 
-**DevOps Engineer**
-**_Company:_** [Concord Servicing Corporation](https://www.concordservicing.com/), Scottsdale, AZ 85251
+**DevOps Engineer**  
+**_Company:_** [Concord Servicing Corporation](https://www.concordservicing.com/), Scottsdale, AZ 85251  
 **_Timeframe:_** 10-2017 – Current
 
 - Helped build a CI/CD pipeline using
@@ -138,8 +138,8 @@ srufle_at_gmail.com
   - PowerCLI - VMware, Docker
   - ProxMox (KVM) - Built an automated Jenkins pipeline that deploys containers to an existing 5 node Docker swarm. The build utilizes shared library code pulled from AWS Code Commit to create a standard build pipline across different projects.
 
-**QA/DevOps Automation Engineering Consultant**
-**_Company:_** [agiletestingframework.com](http://www.agiletestingframework.com/about/), Tempe, AZ 85284
+**QA/DevOps Automation Engineering Consultant**  
+**_Company:_** [agiletestingframework.com](http://www.agiletestingframework.com/about/), Tempe, AZ 85284  
 **_Timeframe:_** 01-2014 – 10-2017
 
 - Developed build/deployment of Nuget packages for more then 40 applications
@@ -150,20 +150,20 @@ srufle_at_gmail.com
 - Used SaltStack and Vagrant to create a set of demonstration VM's that had
   - Jenkins/SonarQube/Nexus/MySQL/Tomcat installed
 
-**QA Automation Engineer**
-**_Company:_** Forever Living Products International, LLC, Scottsdale, AZ
-**_Timeframe:_** 07-2013 - 03-2014
+**QA Automation Engineer**  
+**_Company:_** Forever Living Products International, LLC, Scottsdale, AZ  
+**_Timeframe:_** 07-2013 - 03-2014   
 
 - Developed automated testing framework to test the IFS Web application
 - Technologies used consisted of Sikuli to do image matching, AutoIT to interact with windows, Guice for dependency injection, Apache commons libraries for configuration data, reading/writing excel documents
 - Tests were run using TestNG from Maven using and inside Eclipse
 
-**QA Automation Engineer/J2EE Software Engineer**
-**_Company:_** Able Engineering / Evaluate To Win  Phoenix, AZ
-**_Timeframe:_** 08-2011 - 07-2013
+**QA Automation Engineer/J2EE Software Engineer**  
+**_Company:_** Able Engineering / Evaluate To Win  Phoenix, AZ  
+**_Timeframe:_** 08-2011 - 07-2013  
 
 - Converted from jUnit to TestNG for functional testing that required a specific order of operation.
-- This reduced the time to run all tests from 5 hours doing each suite manually to 3 hrs for end to end completion of 15 suites with an average of 10 tests
+- This reduced the time to run all tests from 5 hours doing each suite manually to 3 hrs for end to end completion of 15 suites with an average of 10 tests 
 - I am an active participant in the Phoenix Selenium Users Group
   - I recently gave a presentation on “Using JQuery with Selenium/WebDriver”
   - Will be attending the “2013 SeConf” in order to learn more about the state of the art in automated testing
@@ -180,7 +180,7 @@ srufle_at_gmail.com
 - Have written MySQL stored procedures to convert primary key columns to a shorter length during a performance optimization task
 
 **Lead J2EE Software Engineer**
-**_Company:_** Salmon LLC	Mineola, NY
+**_Company:_** Salmon LLC	Mineola, NY 
 **_Timeframe:_** 09-1999-08-2011
 
 - Responsible for all aspects of the software development of the Fujifilm USA a high volume website from 2000-2008 using a  J2EE environment, including EJB, JDBC, JMS, JNDI, and XML technologies.
@@ -191,14 +191,14 @@ srufle_at_gmail.com
   - For  8 yrs was deployed to a clustered BEA Weblogic environment  using a MySQL backend
   - Other technologies used SOFIA, JSP/Servlets, Fatwire Content Management
   - Implemented custom administration screens for complex content management tasks using SOFIA/JSP/Servlets
-  - Implemented SOLR searching and faceted navigation
+  - Implemented SOLR searching and faceted navigation 
 - Implemented build and deployment scripts using the Apache ant build tool
   - Process dealt with load balancers and synchronizing production data
 
 
 
-**Lead Software Engineer**
-**_Company:_** Guadagno Consulting	Rochester, NY
+**Lead Software Engineer**  
+**_Company:_** Guadagno Consulting	Rochester, NY  
 **_Timeframe:_** 04-2006-04-2007
 
 - Developed a “Quote Management System”, using Spring/Hibernate/JSF, these technologies where deployed to the Apache Tomcat JSP/Servlet container  and connected to an  Oracle backend
@@ -206,7 +206,6 @@ srufle_at_gmail.com
 - Reverse engineered Hibernate DOA objects from a an existing Oracle database, then used mapped objects to manage data
 - JSF/MyFaces was used to implement the view
 - User login connected to an LDAP server using “Acegi Security" and "CAS"
-
 
 ## EDUCATION
 Bachelor's  of Arts in Virtual Reality (CS)  
