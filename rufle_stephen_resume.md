@@ -132,12 +132,21 @@ srufle_at_gmail.com
 **_Company:_** [Concord Servicing Corporation](https://www.concordservicing.com/), Scottsdale, AZ 85251  
 **_Timeframe:_** 10-2017 – Current
 
-- Helped build a CI/CD pipeline using
-  - Jenkins, Octopus Deploy, Nexus binary repository, Docker registry
+- Helped build a two different CI/CD pipelines using
+  - Jenkins, Octopus Deploy, Nexus binary repository, Docker registry, Gitlab, AWS ECR, AWS S3, AWS Code Commit
     - Nuget, msbuild, psake, maven
   - PowerShell, Bash, Python, C#, Ansible
   - PowerCLI - VMware, Docker
   - ProxMox (KVM) - Built an automated Jenkins pipeline that deploys containers to an existing 5 node Docker swarm. The build utilizes shared library code pulled from AWS Code Commit to create a standard build pipeline across different projects.
+- Scripted the creation of AWS IAM users
+  - Created a default password and AWS Code Commit SSH key for the user, and generated a getting started document.
+  - Added the user to a group that allowed access to AWS using default AWS policies (ECR, Code Commit)
+- Automated the creation of multiple Docker swarms in four environments.
+  - Utilized shell scripts and Ansible playbooks to create a Docker swarm.
+    - Leveraged new docker module in Ansible to create a manager node and join the worker nodes.
+    - Injected secrets into swarm.
+    - Bootstrapped a custom "Deployer" application that watches an S3 bucket, and deploys new versions of containers from ECR when it sees changes.
+    - Deployed a portainer instance so users could have an interface to view information about stacks/services in the swarm. One major benefit developers gained was easy access to container logs.
 
 **QA/DevOps Automation Engineering Consultant**  
 **_Company:_** [agiletestingframework.com](http://www.agiletestingframework.com/about/), Tempe, AZ 85284  
