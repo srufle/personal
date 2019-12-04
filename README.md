@@ -14,6 +14,7 @@
 
 ### Linuxacademy
 
+- [Amazon EKS Deep Dive](https://linuxacademy.com/course/amazon-eks-deep-dive/) - <a href="linuxacademy/amazon-eks-deep-dive.pdf" target="_blank">12/03/2019</a>
 - [Kubernetes Essentials](https://linuxacademy.com/course/kubernetes-essentials/) - <a href="linuxacademy/kubernetes-essentials.pdf" target="_blank">11/23/2019</a>
 - [Kubernetes Quick Start](https://linuxacademy.com/course/kubernetes-quick-start/) - <a href="linuxacademy/kubernetes-quick-start.pdf" target="_blank">11/28/2019</a>
 - [Network Routing Fundamentals](https://linuxacademy.com/course/network-routing-fundamentals/) - <a href="linuxacademy/network-routing-fundamentals.pdf" target="_blank">10/05/2019</a>
