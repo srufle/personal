@@ -14,6 +14,7 @@
 
 ### Linuxacademy
 
+- [Kubernetes the Hard Way](https://linuxacademy.com/course/kubernetes-the-hard-way/) - <a href="linuxacademy/kubernetes-the-hard-way.pdf" target="_blank">12/08/2019</a>
 - [Amazon EKS Deep Dive](https://linuxacademy.com/course/amazon-eks-deep-dive/) - <a href="linuxacademy/amazon-eks-deep-dive.pdf" target="_blank">12/03/2019</a>
 - [Kubernetes Essentials](https://linuxacademy.com/course/kubernetes-essentials/) - <a href="linuxacademy/kubernetes-essentials.pdf" target="_blank">11/23/2019</a>
 - [Kubernetes Quick Start](https://linuxacademy.com/course/kubernetes-quick-start/) - <a href="linuxacademy/kubernetes-quick-start.pdf" target="_blank">11/28/2019</a>
