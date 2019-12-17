@@ -14,6 +14,7 @@
 
 ### Linuxacademy
 
+- [Implementing a Full CI/CD Pipeline](https://linuxacademy.com/course/implementing-a-full-ci-cd-pipeline/) - <a href="linuxacademy/implementing-a-full-ci-cd-pipeline.pdf" target="_blank">12/17/2019</a>
 - [Kubernetes the Hard Way](https://linuxacademy.com/course/kubernetes-the-hard-way/) - <a href="linuxacademy/kubernetes-the-hard-way.pdf" target="_blank">12/08/2019</a>
 - [Amazon EKS Deep Dive](https://linuxacademy.com/course/amazon-eks-deep-dive/) - <a href="linuxacademy/amazon-eks-deep-dive.pdf" target="_blank">12/03/2019</a>
 - [Kubernetes Essentials](https://linuxacademy.com/course/kubernetes-essentials/) - <a href="linuxacademy/kubernetes-essentials.pdf" target="_blank">11/23/2019</a>
